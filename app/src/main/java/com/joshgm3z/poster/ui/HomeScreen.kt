@@ -1,4 +1,4 @@
-package com.joshgm3z.poster
+package com.joshgm3z.poster.ui
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Row

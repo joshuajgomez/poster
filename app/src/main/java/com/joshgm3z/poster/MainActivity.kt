@@ -8,6 +8,8 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
+import com.joshgm3z.poster.ui.HomeScreen
+import com.joshgm3z.poster.ui.NewPostScreen
 import com.joshgm3z.poster.ui.theme.PosterTheme
 
 class MainActivity : ComponentActivity() {
